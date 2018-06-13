@@ -2,15 +2,15 @@
 This repo is all about Machine Machine with Scikit Learn.I am a beginner in Machine Learning so you will find the basic examples here ;) 
 
 
-##Language: Python
+## Language: Python
 
-####Python For Data Science Cheat Sheet:
+#### Python For Data Science Cheat Sheet:
 
 - http://www.utc.fr/~jlaforet/Suppl/python-cheatsheets.pdf
 - https://s3.amazonaws.com/assets.datacamp.com/blog_assets/PythonForDataScience.pdf
 - https://medium.com/machine-learning-in-practice/cheat-sheet-of-machine-learning-and-python-and-math-cheat-sheets-a4afe4e791b6
 
-##Python Packages : 
+## Python Packages : 
 
 - **Scikit-learn** (http://scikit-learn.org)
 - **NumPy**(http://www.numpy.org/)
