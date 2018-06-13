@@ -1,0 +1,10 @@
+SVM(Support Vector Machines) Basic Tutorials
+
+1)  https://www.analyticsvidhya.com/blog/2017/09/understaing-support-vector-machine-example-code/
+
+
+Scikit Learn SVM API
+ 1)   http://scikit-learn.org/stable/modules/svm.html#svm
+ 2)   http://scikit-learn.org/stable/modules/classes.html#module-sklearn.svm
+
+    

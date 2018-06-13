@@ -1,0 +1,20 @@
+SVC( C-Support Vector Classification )
+
+
+Scikit Learn
+    1)http://scikit-learn.org/stable/modules/generated/sklearn.svm.SVC.html#sklearn.svm.SVC
+
+
+
+
+What is the difference between SVC and SVM in scikit-learn? 
+
+Source: https://stackoverflow.com/questions/27912872/what-is-the-difference-between-svc-and-svm-in-scikit-learn
+
+    They are just different implementations of the same algorithm. The SVM module (SVC, NuSVC, etc) is a wrapper around the libsvm library and supports different kernels while LinearSVC is based on liblinear and only supports a linear kernel. So:
+
+    SVC(kernel = 'linear')
+    is in theory "equivalent" to:
+
+    LinearSVC()
+    Because the implementations are different in practice you will get different results, the most important ones being that LinearSVC only supports a linear kernel, is faster and can scale a lot better.
